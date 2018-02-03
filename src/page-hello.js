@@ -1,2 +1,3 @@
-export class PageHelloViewModel {  
+export class Dashboard {
+
 }
